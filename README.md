@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Android applications using Java, Kotlin & XML<br>- Personal projects and improving problem-solving skills<br><br>🌱 I’m currently learning<br>- Data Structures & Algorithms in Java<br>- Android Development<br>- Git & GitHub<br><br>👯 I’m looking to collaborate on<br>- Android app projects<br>- Open-source beginner-friendly projects<br><br>🤝 I’m looking for help with<br>- Android architecture and best practices<br>- DSA problem-solving strategies<br><br>💬 Ask me about- Android Development<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I enjoy building apps and learning how things work under the hood.
+🔭 I’m currently working on<br>- Android applications using Java, Kotlin & XML<br>- Personal projects and improving problem-solving skills<br><br>🌱 I’m currently learning<br>- Data Structures & Algorithms in Java<br>- Android Development<br>- Git & GitHub<br><br>👯 I’m looking to collaborate on<br>- Android app projects<br>- Open-source beginner-friendly projects<br><br>🤝 I’m looking for help with<br>- Android architecture and best practices<br>- DSA problem-solving strategies<br><br>💬 Ask me about- Android Development<br>- Git & GitHub<br><br>⚡ Fun fact<br>- I started coding by building projects before fully understanding everything.
 
 
 ## 🌐 Socials:
